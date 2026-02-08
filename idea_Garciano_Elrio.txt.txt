@@ -1,0 +1,1 @@
+As a student, I want AI to highlight and summarize my most important notes, so that I can quickly review key information without searching through everything.
